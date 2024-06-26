@@ -1,7 +1,6 @@
 # System-Design-and-Analysis
 
-
-This repository contains System Design and Analysis course self personal practice about a case study ( hospital management system ) which includes the following :
+This repository contains an independent personal project from the Systems Design and Analysis course, focused on a case study (hospital management system), which includes the following:
 1. Actors and Use-case diagram.
 2. Activity diagram.
 3. Swimlane diagram.
